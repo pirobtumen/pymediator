@@ -14,6 +14,6 @@ setup(name='pymediator',
               'tests'
           ]
       ),
-      # url='https://www.python.org/sigs/distutils-sig/',
+      url='https://github.com/pirobtumen/pymediator',
       # packages=['distutils', 'distutils.command'],
       )
