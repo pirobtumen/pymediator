@@ -1,0 +1,10 @@
+# editor
+.idea
+
+# pycache
+pymediator/__pycache__
+test/__pycache__
+
+# pytest
+.pytest_cache
+.coverage
