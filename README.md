@@ -4,13 +4,13 @@ Simple but powerful python mediator pattern library.
 
 ## Installation
 
-```
-python -m pip install ...
+```shell script
+python -m pip install git+https://github.com/pirobtumen/pymediator.git@v0.1.0\#egg\=pymediator
 ```
 
 ## Usage
 
-```
+```python
 from pymediator import Event, EventHandler, Mediator
 
 mediator = Mediator()
